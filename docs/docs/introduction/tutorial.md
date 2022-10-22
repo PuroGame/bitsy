@@ -4,3 +4,4 @@ This page links to tutorials written by the Bitsy community on various topics. I
 
 - For a general introduction and tutorial to using Bitsy, check out [Claire Morwood's tutorial](https://www.shimmerwitch.space/bitsyTutorial.html).
 - For a guide to using Bitsy variables, check out [this tutorial by ayolland](https://ayolland.itch.io/trevor/devlog/29520/bitsy-variables-a-tutorial).
+- For a brazilian portuguese Bitsy tutorial, check out [Eduardo Favero's tutorial] (https://oimob.com/bitsy-tutorial-aula-3/).
